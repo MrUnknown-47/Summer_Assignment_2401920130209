@@ -1,29 +1,29 @@
-# Week 3 – Day 5: Mixed Lists, Stacks & Queues
+# Week 3 – Day 5: Queue / Deque (Part C)
 
 ## DSA Topics Covered
-- Concepts: Mixed Lists, Stacks & Queues
+- Concepts: Queue / Deque (Part C)
 - Primary Languages: Java / C++
 
 ---
 
 ## Daily Problem Checklist
 
-### Problem 1: LeetCode 146 - LRU Cache
-- **Difficulty:** Medium
-- **LeetCode Link:** [LRU Cache](https://leetcode.com/problems/lru-cache/)
-- **Description:** Design and implement a data structure for Least Recently Used (LRU) Cache in O(1) time.
-- **Status:** [ ] Completed
-
-### Problem 2: LeetCode 496 - Next Greater Element I
+### Problem 1: LeetCode 232 - Implement Queue using Stacks
 - **Difficulty:** Easy
-- **LeetCode Link:** [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
-- **Description:** Find the next greater element for each value in subset array relative to the main array.
+- **LeetCode Link:** [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+- **Description:** Implement a FIFO queue using two stacks.
 - **Status:** [ ] Completed
 
-### Problem 3: LeetCode 739 - Daily Temperatures
-- **Difficulty:** Medium
-- **LeetCode Link:** [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
-- **Description:** Find how many days to wait for a warmer temperature given an array of daily temperatures.
+### Problem 2: LeetCode 933 - Number of Recent Calls
+- **Difficulty:** Easy
+- **LeetCode Link:** [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
+- **Description:** Count recent requests within a sliding window of time.
+- **Status:** [ ] Completed
+
+### Problem 3: LeetCode 239 - Sliding Window Maximum
+- **Difficulty:** Hard
+- **LeetCode Link:** [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+- **Description:** Find the maximum element inside each sliding window of size `k`.
 - **Status:** [ ] Completed
 
 

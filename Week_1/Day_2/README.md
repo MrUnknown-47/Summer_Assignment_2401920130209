@@ -1,29 +1,29 @@
-# Week 1 – Day 2: Prefix Sum
+# Week 1 – Day 2: Prefix Sum / Sliding Window
 
 ## DSA Topics Covered
-- Concepts: Prefix Sum
+- Concepts: Prefix Sum / Sliding Window
 - Primary Languages: Java / C++
 
 ---
 
 ## Daily Problem Checklist
 
-### Problem 1: LeetCode 303 - Range Sum Query - Immutable
-- **Difficulty:** Easy
-- **LeetCode Link:** [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
-- **Description:** Calculate the sum of elements of an array between indices left and right inclusive.
-- **Status:** [ ] Completed
-
-### Problem 2: LeetCode 560 - Subarray Sum Equals K
+### Problem 1: LeetCode 53 - Maximum Subarray
 - **Difficulty:** Medium
-- **LeetCode Link:** [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
-- **Description:** Find the total number of continuous subarrays whose sum equals `k`.
+- **LeetCode Link:** [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- **Description:** Find the contiguous subarray with the largest sum.
 - **Status:** [ ] Completed
 
-### Problem 3: LeetCode 724 - Find Pivot Index
+### Problem 2: LeetCode 217 - Contains Duplicate
 - **Difficulty:** Easy
-- **LeetCode Link:** [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
-- **Description:** Find the index where the sum of numbers to its left is equal to the sum of numbers to its right.
+- **LeetCode Link:** [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- **Description:** Check if any value appears at least twice in an integer array.
+- **Status:** [ ] Completed
+
+### Problem 3: LeetCode 643 - Maximum Average Subarray I
+- **Difficulty:** Easy
+- **LeetCode Link:** [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+- **Description:** Find a contiguous subarray of size `k` with the maximum average value.
 - **Status:** [ ] Completed
 
 

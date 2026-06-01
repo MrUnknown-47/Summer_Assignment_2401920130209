@@ -1,26 +1,30 @@
-# Week 2 – OOPS Assignment: Playable Interface and Music Streaming App
+# Week 2 – OOPS Assignment: Playable Instrument Interface & Package Hierarchies
 
 ## Assignment Objective
-**Practice dynamic polymorphism, interface hierarchies, and clean decoupling.**
+**Practice Java Packages structure, interface implementation across namespaces, and multiple source files testing.**
 
 ---
 
 ## Problem Description
-Develop a multimedia media manager simulating a streaming service. Items like songs and podcasts execute custom actions when controlled via a centralized dashboard.
+Establish a packages hierarchy representing dynamic musical instruments using a mutual interface.
 
 
 ### Core Requirements:
 1. **Interface `Playable`**:
-   - `void play()`
-   - `void pause()`
-   - `void stop()`
-2. **Implementing Classes**:
-   - `Song`: Fields for `title`, `artist`, `duration`. Implements custom prints for `play`, `pause`, `stop`.
-   - `Podcast`: Fields for `episodeTitle`, `host`, `episodeNumber`. Implements unique audio-streaming text logs.
-   - `Video`: Fields for `videoTitle`, `resolution`, `creator`. Implements video-rendering text representations.
-3. **Class `Playlist`**:
-   - Holds a list of `Playable` items.
-   - Implement methods to add items, display the playlist, and `playAll()` which cycles through items calling their `play()` methods polymorphically.
+   - Method: `void play();`
+   - Package: `music`
+2. **Class `Veena`**:
+   - Implements `Playable` interface.
+   - Package: `music.string`
+3. **Class `Saxophone`**:
+   - Implements `Playable` interface.
+   - Package: `music.wind`
+4. **Class `Test`**:
+   - Package: `live`
+   - Logic:
+     - a. Create an instance of `Veena` and call `play()`
+     - b. Create an instance of `Saxophone` and call `play()`
+     - c. Place the above instances in a variable of type `Playable` and then call `play()`
 
 
 ---
@@ -28,17 +32,17 @@ Develop a multimedia media manager simulating a streaming service. Items like so
 ## Solution Code Templates
 
 ### 1. Java Structural Layout
-Create a source file (e.g., `LibrarySystem.java`) and use the following structural layout to implement the assignment:
+Create a source file (e.g., solution source files) and use the following layout:
 
 ```java
-// Define structures, interfaces, and testing drivers here
+// Paste your Java OOP structural code here
 ```
 
 ### 2. C++ Structural Layout
-Create a source file (e.g., `library_system.cpp`) and use the following structural layout:
+Create a C++ source file and use the following layout:
 
 ```cpp
-// Define class structures, interfaces, and testing drivers here
+// Paste your C++ OOP structural code here
 ```
 
 ---
@@ -46,5 +50,5 @@ Create a source file (e.g., `library_system.cpp`) and use the following structur
 ## Verification & Execution Checks
 List the output or steps used to verify your OOPS model:
 - [ ] Compiles successfully without warnings.
-- [ ] Demonstrates dynamic binding/polymorphism or structural layouts correctly.
+- [ ] Demonstrates requested class structures and methods.
 - [ ] Standard print statements show correct log outputs.

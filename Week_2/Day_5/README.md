@@ -1,29 +1,29 @@
-# Week 2 – Day 5: Advanced Recursion & Backtracking Intro
+# Week 2 – Day 5: Mixed String Problems
 
 ## DSA Topics Covered
-- Concepts: Advanced Recursion & Backtracking Intro
+- Concepts: Mixed String Problems
 - Primary Languages: Java / C++
 
 ---
 
 ## Daily Problem Checklist
 
-### Problem 1: LeetCode 78 - Subsets
+### Problem 1: LeetCode 49 - Group Anagrams
 - **Difficulty:** Medium
-- **LeetCode Link:** [Subsets](https://leetcode.com/problems/subsets/)
-- **Description:** Generate the power set of a set of unique numbers (all possible subsets).
+- **LeetCode Link:** [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- **Description:** Group an array of strings by their anagram equivalence classes.
 - **Status:** [ ] Completed
 
-### Problem 2: LeetCode 46 - Permutations
+### Problem 2: LeetCode 443 - String Compression
 - **Difficulty:** Medium
-- **LeetCode Link:** [Permutations](https://leetcode.com/problems/permutations/)
-- **Description:** Generate all possible permutations of an array of distinct integers.
+- **LeetCode Link:** [String Compression](https://leetcode.com/problems/string-compression/)
+- **Description:** Compress an array of characters in-place using count counts.
 - **Status:** [ ] Completed
 
-### Problem 3: LeetCode 17 - Letter Combinations of a Phone Number
+### Problem 3: LeetCode 5 - Longest Palindromic Substring
 - **Difficulty:** Medium
-- **LeetCode Link:** [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
-- **Description:** Given a string containing digits from 2-9, return all possible letter combinations that the number could represent.
+- **LeetCode Link:** [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- **Description:** Find the longest contiguous palindromic substring in a string.
 - **Status:** [ ] Completed
 
 

@@ -1,29 +1,29 @@
-# Week 1 – Day 4: Two Pointers
+# Week 1 – Day 4: Matrix Problems
 
 ## DSA Topics Covered
-- Concepts: Two Pointers
+- Concepts: Matrix Problems
 - Primary Languages: Java / C++
 
 ---
 
 ## Daily Problem Checklist
 
-### Problem 1: LeetCode 125 - Valid Palindrome
+### Problem 1: LeetCode 1572 - Matrix Diagonal Sum
 - **Difficulty:** Easy
-- **LeetCode Link:** [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-- **Description:** Verify if a string is a palindrome after converting uppercase to lowercase and removing non-alphanumeric characters.
+- **LeetCode Link:** [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
+- **Description:** Find the sum of primary and secondary diagonals of a square matrix.
 - **Status:** [ ] Completed
 
-### Problem 2: LeetCode 11 - Container With Most Water
-- **Difficulty:** Medium
-- **LeetCode Link:** [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-- **Description:** Find two lines that together with the x-axis form a container holding the maximum water.
+### Problem 2: LeetCode 566 - Reshape the Matrix
+- **Difficulty:** Easy
+- **LeetCode Link:** [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+- **Description:** Reshape an m x n matrix into a new r x c matrix if possible.
 - **Status:** [ ] Completed
 
-### Problem 3: LeetCode 15 - 3Sum
+### Problem 3: LeetCode 54 - Spiral Matrix
 - **Difficulty:** Medium
-- **LeetCode Link:** [3Sum](https://leetcode.com/problems/3sum/)
-- **Description:** Find all unique triplets in an array that sum to zero.
+- **LeetCode Link:** [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- **Description:** Return all elements of an m x n matrix in spiral order.
 - **Status:** [ ] Completed
 
 

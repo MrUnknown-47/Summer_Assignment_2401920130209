@@ -1,29 +1,29 @@
-# Week 1 – Day 5: Matrix Problems
+# Week 1 – Day 5: String Basics
 
 ## DSA Topics Covered
-- Concepts: Matrix Problems
+- Concepts: String Basics
 - Primary Languages: Java / C++
 
 ---
 
 ## Daily Problem Checklist
 
-### Problem 1: LeetCode 48 - Rotate Image
-- **Difficulty:** Medium
-- **LeetCode Link:** [Rotate Image](https://leetcode.com/problems/rotate-image/)
-- **Description:** Rotate an n x n 2D matrix representing an image 90 degrees clockwise in-place.
+### Problem 1: LeetCode 125 - Valid Palindrome
+- **Difficulty:** Easy
+- **LeetCode Link:** [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- **Description:** Verify if a string is a palindrome ignoring non-alphanumeric characters.
 - **Status:** [ ] Completed
 
-### Problem 2: LeetCode 54 - Spiral Matrix
-- **Difficulty:** Medium
-- **LeetCode Link:** [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-- **Description:** Return all elements of an m x n matrix in spiral order.
+### Problem 2: LeetCode 344 - Reverse String
+- **Difficulty:** Easy
+- **LeetCode Link:** [Reverse String](https://leetcode.com/problems/reverse-string/)
+- **Description:** Reverse a given character array in-place.
 - **Status:** [ ] Completed
 
-### Problem 3: LeetCode 73 - Set Matrix Zeroes
-- **Difficulty:** Medium
-- **LeetCode Link:** [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-- **Description:** If an element in an m x n matrix is 0, set its entire row and column to 0 in-place.
+### Problem 3: LeetCode 14 - Longest Common Prefix
+- **Difficulty:** Easy
+- **LeetCode Link:** [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- **Description:** Find the longest common prefix string amongst an array of strings.
 - **Status:** [ ] Completed
 
 

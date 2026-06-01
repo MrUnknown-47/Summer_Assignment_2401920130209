@@ -1,7 +1,7 @@
-# Week 1 – Day 1: Arrays (Fundamentals)
+# Week 1 – Day 1: Array Basics
 
 ## DSA Topics Covered
-- Concepts: Arrays (Fundamentals)
+- Concepts: Array Basics
 - Primary Languages: Java / C++
 
 ---
@@ -14,16 +14,16 @@
 - **Description:** Find if two numbers in an array sum to a specific target. Return their indices.
 - **Status:** [ ] Completed
 
-### Problem 2: LeetCode 121 - Best Time to Buy and Sell Stock
+### Problem 2: LeetCode 26 - Remove Duplicates from Sorted Array
 - **Difficulty:** Easy
-- **LeetCode Link:** [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- **Description:** Determine the maximum profit achievable by buying on one day and selling on another.
+- **LeetCode Link:** [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- **Description:** Remove duplicates in-place from a sorted array and return the new length.
 - **Status:** [ ] Completed
 
-### Problem 3: LeetCode 169 - Majority Element
+### Problem 3: LeetCode 121 - Best Time to Buy and Sell Stock
 - **Difficulty:** Easy
-- **LeetCode Link:** [Majority Element](https://leetcode.com/problems/majority-element/)
-- **Description:** Find the element in an array of size `n` that appears more than `n/2` times.
+- **LeetCode Link:** [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- **Description:** Maximize stock trading profit by buying on one day and selling on another.
 - **Status:** [ ] Completed
 
 

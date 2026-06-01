@@ -1,29 +1,29 @@
-# Week 3 – Day 2: Doubly & Advanced Linked Lists
+# Week 3 – Day 2: Linked List (Part A - Continued)
 
 ## DSA Topics Covered
-- Concepts: Doubly & Advanced Linked Lists
+- Concepts: Linked List (Part A - Continued)
 - Primary Languages: Java / C++
 
 ---
 
 ## Daily Problem Checklist
 
-### Problem 1: LeetCode 237 - Delete Node in a Linked List
+### Problem 1: LeetCode 21 - Merge Two Sorted Lists
 - **Difficulty:** Easy
-- **LeetCode Link:** [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
-- **Description:** Delete a node in a singly linked list given access only to that node.
+- **LeetCode Link:** [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- **Description:** Merge two sorted lists and return the sorted merged list.
 - **Status:** [ ] Completed
 
 ### Problem 2: LeetCode 19 - Remove Nth Node From End of List
 - **Difficulty:** Medium
 - **LeetCode Link:** [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- **Description:** Remove the n-th node from the end of the list and return its head.
+- **Description:** Remove the nth node from the end of the list and return its head.
 - **Status:** [ ] Completed
 
-### Problem 3: LeetCode 138 - Copy List with Random Pointer
-- **Difficulty:** Medium
-- **LeetCode Link:** [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
-- **Description:** Deep copy a linked list where each node contains an extra random pointer.
+### Problem 3: LeetCode 234 - Palindrome Linked List
+- **Difficulty:** Easy
+- **LeetCode Link:** [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+- **Description:** Check if a singly linked list is a palindrome.
 - **Status:** [ ] Completed
 
 

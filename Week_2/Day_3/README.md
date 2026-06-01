@@ -1,29 +1,29 @@
-# Week 2 – Day 3: Pattern Matching & Parsing
+# Week 2 – Day 3: Pattern Matching
 
 ## DSA Topics Covered
-- Concepts: Pattern Matching & Parsing
+- Concepts: Pattern Matching
 - Primary Languages: Java / C++
 
 ---
 
 ## Daily Problem Checklist
 
-### Problem 1: LeetCode 28 - Find the Index of the First Occurrence in a String
+### Problem 1: LeetCode 28 - Implement strStr()
 - **Difficulty:** Easy
-- **LeetCode Link:** [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
-- **Description:** Implement strStr() to return the index of the first occurrence of needle in haystack.
+- **LeetCode Link:** [Implement strStr()](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+- **Description:** Return the index of the first occurrence of needle in haystack.
 - **Status:** [ ] Completed
 
-### Problem 2: LeetCode 14 - Longest Common Prefix
+### Problem 2: LeetCode 392 - Is Subsequence
 - **Difficulty:** Easy
-- **LeetCode Link:** [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
-- **Description:** Find the longest common prefix string amongst an array of strings.
+- **LeetCode Link:** [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- **Description:** Determine if a string is a subsequence of another.
 - **Status:** [ ] Completed
 
-### Problem 3: LeetCode 8 - String to Integer (atoi)
-- **Difficulty:** Medium
-- **LeetCode Link:** [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
-- **Description:** Convert a string into a 32-bit signed integer based on specific formatting rules.
+### Problem 3: LeetCode 459 - Repeated Substring Pattern
+- **Difficulty:** Easy
+- **LeetCode Link:** [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+- **Description:** Check if a string can be constructed by repeating a substring of it multiple times.
 - **Status:** [ ] Completed
 
 

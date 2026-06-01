@@ -1,7 +1,7 @@
-# Week 2 – Day 1: Hashing & String Counting
+# Week 2 – Day 1: Hashing in Strings
 
 ## DSA Topics Covered
-- Concepts: Hashing & String Counting
+- Concepts: Hashing in Strings
 - Primary Languages: Java / C++
 
 ---
@@ -11,19 +11,19 @@
 ### Problem 1: LeetCode 242 - Valid Anagram
 - **Difficulty:** Easy
 - **LeetCode Link:** [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-- **Description:** Check if one string is an anagram of another using character counting.
+- **Description:** Determine if two strings are anagrams of each other.
 - **Status:** [ ] Completed
 
-### Problem 2: LeetCode 49 - Group Anagrams
-- **Difficulty:** Medium
-- **LeetCode Link:** [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- **Description:** Group an array of strings such that anagrams are clustered together.
+### Problem 2: LeetCode 387 - First Unique Character in a String
+- **Difficulty:** Easy
+- **LeetCode Link:** [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- **Description:** Find the first non-repeating character in a string and return its index.
 - **Status:** [ ] Completed
 
-### Problem 3: LeetCode 438 - Find All Anagrams in a String
-- **Difficulty:** Medium
-- **LeetCode Link:** [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
-- **Description:** Given string `s` and a non-empty string `p`, find all start indices of `p`'s anagrams in `s`.
+### Problem 3: LeetCode 383 - Ransom Note
+- **Difficulty:** Easy
+- **LeetCode Link:** [Ransom Note](https://leetcode.com/problems/ransom-note/)
+- **Description:** Check if a ransom note string can be constructed from a given magazine string.
 - **Status:** [ ] Completed
 
 

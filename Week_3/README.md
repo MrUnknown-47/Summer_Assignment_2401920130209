@@ -1,7 +1,7 @@
-# Week 3: Linked Lists, Stacks & Queues
+# Week 3: Linked List + Stack + Queue
 
 ## Week Overview
-This week focuses on linear data structures. We will implement singly and doubly linked lists, manage pointers, use Stacks for expression evaluations, and implement Queues/Deques for sliding window bounds.
+This week focuses on linear data structures. Part A covers Linked List pointer traversals, Part B covers Stack applications, and Part C covers Queue/Deque buffers.
 
 ---
 
@@ -9,12 +9,12 @@ This week focuses on linear data structures. We will implement singly and doubly
 
 | Day | Focus Topic | Assignment Load | Folder Link |
 | :--- | :--- | :--- | :--- |
-| **Day 1** | Singly Linked Lists | 3 LeetCode Problems | [README.md](./Day_1/README.md) |
-| **Day 2** | Doubly & Advanced Linked Lists | 3 LeetCode Problems | [README.md](./Day_2/README.md) |
-| **Day 3** | Stacks | 3 LeetCode Problems | [README.md](./Day_3/README.md) |
-| **Day 4** | Queues & Deques | 3 LeetCode Problems | [README.md](./Day_4/README.md) |
-| **Day 5** | Mixed Lists, Stacks & Queues | 3 LeetCode Problems | [README.md](./Day_5/README.md) |
-| **OOPS** | Abstract Class & Polymorphism for Vehicle Rental System | 1 Programming Task | [README.md](./OOPS/README.md) |
+| **Day 1** | Linked List (Part A) | 3 LeetCode Problems | [README.md](./Day_1/README.md) |
+| **Day 2** | Linked List (Part A - Continued) | 3 LeetCode Problems | [README.md](./Day_2/README.md) |
+| **Day 3** | Stack (Part B) | 3 LeetCode Problems | [README.md](./Day_3/README.md) |
+| **Day 4** | Stack (Part B - Continued) | 3 LeetCode Problems | [README.md](./Day_4/README.md) |
+| **Day 5** | Queue / Deque (Part C) | 3 LeetCode Problems | [README.md](./Day_5/README.md) |
+| **OOPS** | Abstract Class Compartment & Railway Coach Notice Simulator | Programming Task(s) | [README.md](./OOPS/README.md) |
 
 ---
 

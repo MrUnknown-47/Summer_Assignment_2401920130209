@@ -1,25 +1,33 @@
-# Week 1 – OOPS Assignment: Interface-Based Library Management System
+# Week 1 – OOPS Assignment: Library User Account Registration & Book Request Validator
 
 ## Assignment Objective
-**Practice basic OOP principles: Abstraction, Encapsulation, and Interface implementation.**
+**Practice Class Interfaces, Inheritance, Encapsulation, Conditional Validations, and Driver Testing.**
 
 ---
 
 ## Problem Description
-Design a system that manages books, members, and library transactions. The interface enforces modular operations, while proper encapsulation secures records.
+Develop an interface called `LibraryUser` and its implementations `KidUsers` and `AdultUser` to validate account registration and book borrowing lengths based on ages and category restrictions.
 
 
 ### Core Requirements:
-1. **Interface `ILibraryOperations`**:
-   - `void borrowBook(String bookId, String memberId)`
-   - `void returnBook(String bookId, String memberId)`
-   - `boolean searchBook(String query)`
-2. **Encapsulated Classes**:
-   - `Book`: Fields for `bookId`, `title`, `author`, `isAvailable`.
-   - `Member`: Fields for `memberId`, `name`, `borrowedBooksList`.
-   - `Librarian`: Fields for `librarianId`, `name`, with capability to add new books to the library.
-3. **Execution/Testing**:
-   - Create a Main driver class demonstrating adding books, registering members, searching, borrowing, and returning books. Include exception handling (e.g., trying to borrow an unavailable book).
+1. **Interface `LibraryUser`**:
+   - Declares methods: `void registerAccount()` and `void requestBook()`.
+2. **Encapsulated Class `KidUsers`**:
+   - Implements `LibraryUser`.
+   - Fields: `int age`, `String bookType`.
+   - Logic:
+     - `registerAccount()`: If age < 12, print `"You have successfully registered under a Kids Account"`. If age >= 12 (or age > 12 as per specs), print `"Sorry, Age must be less than 12 to register as a kid"`.
+     - `requestBook()`: If bookType is `"Kids"`, print `"Book Issued successfully, please return the book within 10 days"`. Else, print `"Oops, you are allowed to take only kids books"`.
+3. **Encapsulated Class `AdultUser`**:
+   - Implements `LibraryUser`.
+   - Fields: `int age`, `String bookType`.
+   - Logic:
+     - `registerAccount()`: If age > 12, print `"You have successfully registered under an Adult Account"`. If age <= 12 (or age < 12 as per specs), print `"Sorry, Age must be greater than 12 to register as an adult"`.
+     - `requestBook()`: If bookType is `"Fiction"`, print `"Book Issued successfully, please return the book within 7 days"`. Else, print `"Oops, you are allowed to take only adult Fiction books"`.
+4. **Driver Class `LibraryInterfaceDemo.java`**:
+   - Contains `main()` method executing:
+     - **Test Case #1**: KidUser with Age = 10, 18. BookType = "Kids", "Fiction".
+     - **Test Case #2**: AdultUser with Age = 5, 23. BookType = "Kids", "Fiction".
 
 
 ---
@@ -27,17 +35,17 @@ Design a system that manages books, members, and library transactions. The inter
 ## Solution Code Templates
 
 ### 1. Java Structural Layout
-Create a source file (e.g., `LibrarySystem.java`) and use the following structural layout to implement the assignment:
+Create a source file (e.g., solution source files) and use the following layout:
 
 ```java
-// Define structures, interfaces, and testing drivers here
+// Paste your Java OOP structural code here
 ```
 
 ### 2. C++ Structural Layout
-Create a source file (e.g., `library_system.cpp`) and use the following structural layout:
+Create a C++ source file and use the following layout:
 
 ```cpp
-// Define class structures, interfaces, and testing drivers here
+// Paste your C++ OOP structural code here
 ```
 
 ---
@@ -45,5 +53,5 @@ Create a source file (e.g., `library_system.cpp`) and use the following structur
 ## Verification & Execution Checks
 List the output or steps used to verify your OOPS model:
 - [ ] Compiles successfully without warnings.
-- [ ] Demonstrates dynamic binding/polymorphism or structural layouts correctly.
+- [ ] Demonstrates requested class structures and methods.
 - [ ] Standard print statements show correct log outputs.

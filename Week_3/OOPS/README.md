@@ -1,25 +1,25 @@
-# Week 3 – OOPS Assignment: Abstract Class & Polymorphism for Vehicle Rental System
+# Week 3 – OOPS Assignment: Abstract Class Compartment & Railway Coach Notice Simulator
 
 ## Assignment Objective
-**Practice Class Inheritance, Abstract Classes, Method Overriding, and Dynamic Binding.**
+**Practice Abstract Classes, Abstract Methods, Polymorphic Array Traversals, and Subclass Overriding.**
 
 ---
 
 ## Problem Description
-Develop a system containing specialized vehicles available for renting. Establish an inheritance model where specialized cost evaluations occur based on custom metrics.
+Design an abstract base class `Compartment` and subclasses representing specialized coaches. Demonstrate polymorphism by creating random coach layouts and fetching their notices.
 
 
 ### Core Requirements:
-1. **Abstract Class `Vehicle`**:
-   - Fields: `vehicleId`, `model`, `baseRatePerHour`.
-   - Constructor to initialize fields.
-   - Abstract method: `abstract double calculateRentalCost(int hours)`.
+1. **Abstract Class `Compartment`**:
+   - Method: `public abstract String notice();`
 2. **Subclasses**:
-   - `Car`: Adds `seatingCapacity` and charges 10% extra on calculated rates if capacity > 5.
-   - `Bike`: Implements direct rate calculation with no additional fees.
-   - `Truck`: Adds `loadCapacity` (in tons) and charges an additional $50 handling fee.
-3. **Execution/Testing**:
-   - Write a main program showing polymorphic list traversal (`List<Vehicle>`), adding different vehicles, and calculating cost for each vehicle given a duration of hours.
+   - `FirstClass`, `Ladies`, `General`, `Luggage` each extending `Compartment`.
+   - Override `notice()` in each subclass to return appropriate notification strings (e.g. `FirstClass`: "This is First Class. Ticket required.", `Ladies`: "Ladies Compartment. Men restricted.", etc.).
+3. **Execution Class `TestCompartment`**:
+   - `main()` method:
+     - Declare an array of `Compartment` of size 10.
+     - Fill each array slot with a randomly generated Compartment type (FirstClass, Ladies, General, or Luggage) determined by generating a random integer between 1 and 4.
+     - Traverse the array and execute `notice()` on each slot to demonstrate dynamic polymorphism.
 
 
 ---
@@ -27,17 +27,17 @@ Develop a system containing specialized vehicles available for renting. Establis
 ## Solution Code Templates
 
 ### 1. Java Structural Layout
-Create a source file (e.g., `LibrarySystem.java`) and use the following structural layout to implement the assignment:
+Create a source file (e.g., solution source files) and use the following layout:
 
 ```java
-// Define structures, interfaces, and testing drivers here
+// Paste your Java OOP structural code here
 ```
 
 ### 2. C++ Structural Layout
-Create a source file (e.g., `library_system.cpp`) and use the following structural layout:
+Create a C++ source file and use the following layout:
 
 ```cpp
-// Define class structures, interfaces, and testing drivers here
+// Paste your C++ OOP structural code here
 ```
 
 ---
@@ -45,5 +45,5 @@ Create a source file (e.g., `library_system.cpp`) and use the following structur
 ## Verification & Execution Checks
 List the output or steps used to verify your OOPS model:
 - [ ] Compiles successfully without warnings.
-- [ ] Demonstrates dynamic binding/polymorphism or structural layouts correctly.
+- [ ] Demonstrates requested class structures and methods.
 - [ ] Standard print statements show correct log outputs.

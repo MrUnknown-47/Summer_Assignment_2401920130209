@@ -1,29 +1,29 @@
-# Week 4 – Day 5: Advanced Trees & Miscellaneous
+# Week 4 – Day 5: Advanced Trees
 
 ## DSA Topics Covered
-- Concepts: Advanced Trees & Miscellaneous
+- Concepts: Advanced Trees
 - Primary Languages: Java / C++
 
 ---
 
 ## Daily Problem Checklist
 
-### Problem 1: LeetCode 105 - Construct Binary Tree from Preorder and Inorder Traversal
+### Problem 1: LeetCode 101 - Symmetric Tree
+- **Difficulty:** Easy
+- **LeetCode Link:** [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+- **Description:** Check if a binary tree is a mirror image of itself.
+- **Status:** [ ] Completed
+
+### Problem 2: LeetCode 105 - Construct Binary Tree from Preorder and Inorder Traversal
 - **Difficulty:** Medium
 - **LeetCode Link:** [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-- **Description:** Reconstruct a binary tree given its preorder and inorder traversal arrays.
+- **Description:** Reconstruct binary tree from pre- and in-order arrays.
 - **Status:** [ ] Completed
 
-### Problem 2: LeetCode 297 - Serialize and Deserialize Binary Tree
+### Problem 3: LeetCode 297 - Serialize and Deserialize Binary Tree
 - **Difficulty:** Hard
 - **LeetCode Link:** [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
-- **Description:** Design an algorithm to convert a binary tree to a string representation and back.
-- **Status:** [ ] Completed
-
-### Problem 3: LeetCode 114 - Flatten Binary Tree to Linked List
-- **Difficulty:** Medium
-- **LeetCode Link:** [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
-- **Description:** Flatten a binary tree into a single-child chain in-place following pre-order traversal.
+- **Description:** Design dynamic string format serializer and parser for trees.
 - **Status:** [ ] Completed
 
 

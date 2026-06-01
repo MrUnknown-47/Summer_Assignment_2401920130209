@@ -1,29 +1,29 @@
-# Week 3 – Day 1: Singly Linked Lists
+# Week 3 – Day 1: Linked List (Part A)
 
 ## DSA Topics Covered
-- Concepts: Singly Linked Lists
+- Concepts: Linked List (Part A)
 - Primary Languages: Java / C++
 
 ---
 
 ## Daily Problem Checklist
 
-### Problem 1: LeetCode 206 - Reverse Linked List
-- **Difficulty:** Easy
-- **LeetCode Link:** [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- **Description:** Reverse a singly linked list in-place and return the new head node.
-- **Status:** [ ] Completed
-
-### Problem 2: LeetCode 21 - Merge Two Sorted Lists
-- **Difficulty:** Easy
-- **LeetCode Link:** [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- **Description:** Merge two sorted linked lists and return it as a new sorted list.
-- **Status:** [ ] Completed
-
-### Problem 3: LeetCode 141 - Linked List Cycle
+### Problem 1: LeetCode 141 - Linked List Cycle
 - **Difficulty:** Easy
 - **LeetCode Link:** [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- **Description:** Determine if a linked list contains a cycle (loop) using fast and slow pointers.
+- **Description:** Determine if a linked list contains a loop cycle.
+- **Status:** [ ] Completed
+
+### Problem 2: LeetCode 206 - Reverse Linked List
+- **Difficulty:** Easy
+- **LeetCode Link:** [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- **Description:** Reverse a singly linked list in-place.
+- **Status:** [ ] Completed
+
+### Problem 3: LeetCode 876 - Middle of the Linked List
+- **Difficulty:** Easy
+- **LeetCode Link:** [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- **Description:** Find and return the middle node of a linked list.
 - **Status:** [ ] Completed
 
 

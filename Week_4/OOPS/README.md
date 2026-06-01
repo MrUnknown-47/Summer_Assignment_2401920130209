@@ -1,26 +1,30 @@
-# Week 4 – OOPS Assignment: Interfaces, Inner Classes, & Inheritance for E-Commerce System
+# Week 4 – OOPS Assignment: Four OOP Principles & Features Mini-Projects
 
 ## Assignment Objective
-**Practice complex systems composition: Inheritance, static and non-static Inner classes, Multiple Interfaces.**
+**Practice nested classes, geometric classes design, class inheritance patterns, and interface integration.**
 
 ---
 
 ## Problem Description
-Create an E-Commerce backbone representing users, shopping carts, checkout logic, and details logs.
+Develop four independent mini-modules reinforcing distinct OOPS syntax behaviors.
 
 
 ### Core Requirements:
-1. **Abstract Class `User`**:
-   - Fields: `userId`, `name`, `email`.
-   - Subclasses: `Customer` (with dynamic cart access) and `Admin` (with product catalog editing privileges).
-2. **Interfaces**:
-   - `PaymentGateway`: `boolean processPayment(double amount)`
-   - `OrderManager`: `void placeOrder(Customer customer, double amount)`
-3. **Inner Classes Structure**:
-   - Inside `Customer`, define a non-static inner class `ShoppingCart` to store items (`Map<String, Integer>`) and compute total prices.
-   - Inside `OrderManager`, define a static inner class `OrderDetails` to track order tracking IDs, items ordered, and transaction status.
-4. **Execution/Testing**:
-   - Demonstrate logging in, adding items to a cart, checking out via an implemented payment interface, and printing receipt details.
+1. **Assignment 1 - Square Interface**:
+   - Create interface `test` with member function `square(int value)`.
+   - Implement in class `arithmetic`.
+   - Create class `ToTestInt` with `main()` method calling `arithmetic`'s implementation.
+2. **Assignment 2 - Nested Class Scope**:
+   - Create outer class with a `display()` function.
+   - Create non-static inner class `inner` with `display()` function.
+   - Show compilation and scoping calls within the main class.
+3. **Assignment 3 - Point 2D Geometry**:
+   - Create class `Point` containing instance variables `private int x, y`.
+   - Include constructors: `public Point()` and `Point(int x, int y)`.
+   - Include methods: `public void setX(int x)`, `setY(int y)`, `setXY(int x, int y)`.
+4. **Assignment 4 - Box Inheritance (`Box3D`)**:
+   - Base class `box` and subclass `box3d` extending `box`.
+   - Set length, breadth, height. Implement methods to calculate total Area and Volume.
 
 
 ---
@@ -28,17 +32,17 @@ Create an E-Commerce backbone representing users, shopping carts, checkout logic
 ## Solution Code Templates
 
 ### 1. Java Structural Layout
-Create a source file (e.g., `LibrarySystem.java`) and use the following structural layout to implement the assignment:
+Create a source file (e.g., solution source files) and use the following layout:
 
 ```java
-// Define structures, interfaces, and testing drivers here
+// Paste your Java OOP structural code here
 ```
 
 ### 2. C++ Structural Layout
-Create a source file (e.g., `library_system.cpp`) and use the following structural layout:
+Create a C++ source file and use the following layout:
 
 ```cpp
-// Define class structures, interfaces, and testing drivers here
+// Paste your C++ OOP structural code here
 ```
 
 ---
@@ -46,5 +50,5 @@ Create a source file (e.g., `library_system.cpp`) and use the following structur
 ## Verification & Execution Checks
 List the output or steps used to verify your OOPS model:
 - [ ] Compiles successfully without warnings.
-- [ ] Demonstrates dynamic binding/polymorphism or structural layouts correctly.
+- [ ] Demonstrates requested class structures and methods.
 - [ ] Standard print statements show correct log outputs.

@@ -1,29 +1,29 @@
-# Week 1 – Day 3: Sliding Window
+# Week 1 – Day 3: Two Pointer
 
 ## DSA Topics Covered
-- Concepts: Sliding Window
+- Concepts: Two Pointer
 - Primary Languages: Java / C++
 
 ---
 
 ## Daily Problem Checklist
 
-### Problem 1: LeetCode 643 - Maximum Average Subarray I
+### Problem 1: LeetCode 283 - Move Zeroes
 - **Difficulty:** Easy
-- **LeetCode Link:** [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
-- **Description:** Find a contiguous subarray of size `k` that has the maximum average value.
+- **LeetCode Link:** [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- **Description:** Move all 0s in an array to the end in-place while keeping relative order of elements.
 - **Status:** [ ] Completed
 
-### Problem 2: LeetCode 3 - Longest Substring Without Repeating Characters
-- **Difficulty:** Medium
-- **LeetCode Link:** [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- **Description:** Calculate the length of the longest substring without repeating characters.
+### Problem 2: LeetCode 977 - Squares of a Sorted Array
+- **Difficulty:** Easy
+- **LeetCode Link:** [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- **Description:** Return an array of the squares of each number sorted in non-decreasing order.
 - **Status:** [ ] Completed
 
-### Problem 3: LeetCode 209 - Minimum Size Subarray Sum
+### Problem 3: LeetCode 11 - Container With Most Water
 - **Difficulty:** Medium
-- **LeetCode Link:** [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
-- **Description:** Find the minimal length of a contiguous subarray of which the sum is >= target.
+- **LeetCode Link:** [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- **Description:** Find two lines that form a container holding the maximum volume of water.
 - **Status:** [ ] Completed
 
 

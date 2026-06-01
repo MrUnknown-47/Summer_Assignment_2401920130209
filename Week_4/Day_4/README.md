@@ -1,7 +1,7 @@
-# Week 4 – Day 4: Path-Based Tree Problems
+# Week 4 – Day 4: Path Based Problems
 
 ## DSA Topics Covered
-- Concepts: Path-Based Tree Problems
+- Concepts: Path Based Problems
 - Primary Languages: Java / C++
 
 ---
@@ -11,19 +11,19 @@
 ### Problem 1: LeetCode 112 - Path Sum
 - **Difficulty:** Easy
 - **LeetCode Link:** [Path Sum](https://leetcode.com/problems/path-sum/)
-- **Description:** Verify if there is a path from root to leaf that sums up to target sum.
+- **Description:** Verify if there is a root-to-leaf path summing to target.
 - **Status:** [ ] Completed
 
-### Problem 2: LeetCode 113 - Path Sum II
-- **Difficulty:** Medium
-- **LeetCode Link:** [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
-- **Description:** Retrieve all unique root-to-leaf paths that sum up to target sum.
+### Problem 2: LeetCode 543 - Diameter of Binary Tree
+- **Difficulty:** Easy
+- **LeetCode Link:** [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- **Description:** Compute length of the longest path between any two nodes in a tree.
 - **Status:** [ ] Completed
 
 ### Problem 3: LeetCode 124 - Binary Tree Maximum Path Sum
 - **Difficulty:** Hard
 - **LeetCode Link:** [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-- **Description:** Find the maximum sum of any path connecting any two nodes in a tree.
+- **Description:** Find maximum path sum of any connecting node sequence.
 - **Status:** [ ] Completed
 
 

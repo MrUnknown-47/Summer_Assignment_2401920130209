@@ -1,29 +1,29 @@
-# Week 3 – Day 4: Queues & Deques
+# Week 3 – Day 4: Stack (Part B - Continued)
 
 ## DSA Topics Covered
-- Concepts: Queues & Deques
+- Concepts: Stack (Part B - Continued)
 - Primary Languages: Java / C++
 
 ---
 
 ## Daily Problem Checklist
 
-### Problem 1: LeetCode 232 - Implement Queue using Stacks
-- **Difficulty:** Easy
-- **LeetCode Link:** [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-- **Description:** Implement a first-in-first-out (FIFO) queue using only two stacks.
-- **Status:** [ ] Completed
-
-### Problem 2: LeetCode 622 - Design Circular Queue
+### Problem 1: LeetCode 739 - Daily Temperatures
 - **Difficulty:** Medium
-- **LeetCode Link:** [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
-- **Description:** Design a queue implementation on a ring buffer structure.
+- **LeetCode Link:** [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+- **Description:** Calculate how many days to wait for a warmer temperature.
 - **Status:** [ ] Completed
 
-### Problem 3: LeetCode 239 - Sliding Window Maximum
+### Problem 2: LeetCode 150 - Evaluate Reverse Polish Notation
+- **Difficulty:** Medium
+- **LeetCode Link:** [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+- **Description:** Evaluate arithmetic expression in Postfix/Reverse Polish Notation.
+- **Status:** [ ] Completed
+
+### Problem 3: LeetCode 84 - Largest Rectangle in Histogram
 - **Difficulty:** Hard
-- **LeetCode Link:** [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-- **Description:** Given an array, return the maximum element inside each sliding window of size `k`.
+- **LeetCode Link:** [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+- **Description:** Find the area of the largest rectangle in a histogram.
 - **Status:** [ ] Completed
 
 

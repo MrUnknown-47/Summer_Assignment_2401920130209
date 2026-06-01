@@ -1,7 +1,7 @@
-# Week 4 – Day 3: Binary Search Trees
+# Week 4 – Day 3: Binary Search Tree
 
 ## DSA Topics Covered
-- Concepts: Binary Search Trees
+- Concepts: Binary Search Tree
 - Primary Languages: Java / C++
 
 ---
@@ -11,19 +11,19 @@
 ### Problem 1: LeetCode 700 - Search in a Binary Search Tree
 - **Difficulty:** Easy
 - **LeetCode Link:** [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
-- **Description:** Find and return the subtree node whose value matches the query in a BST.
+- **Description:** Find the node in BST whose value matches query.
 - **Status:** [ ] Completed
 
 ### Problem 2: LeetCode 98 - Validate Binary Search Tree
 - **Difficulty:** Medium
 - **LeetCode Link:** [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-- **Description:** Validate that a tree conforms to the binary search tree property.
+- **Description:** Validate that a tree conforms to the BST invariants.
 - **Status:** [ ] Completed
 
-### Problem 3: LeetCode 235 - Lowest Common Ancestor of a Binary Search Tree
+### Problem 3: LeetCode 235 - Lowest Common Ancestor of a BST
 - **Difficulty:** Medium
-- **LeetCode Link:** [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- **Description:** Find the lowest common ancestor node of two target nodes within a BST.
+- **LeetCode Link:** [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- **Description:** Find the lowest common ancestor node of two given nodes in BST.
 - **Status:** [ ] Completed
 
 

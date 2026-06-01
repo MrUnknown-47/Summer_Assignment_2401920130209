@@ -1,29 +1,29 @@
-# Week 2 – Day 4: Basic Recursion
+# Week 2 – Day 4: Recursion + Strings
 
 ## DSA Topics Covered
-- Concepts: Basic Recursion
+- Concepts: Recursion + Strings
 - Primary Languages: Java / C++
 
 ---
 
 ## Daily Problem Checklist
 
-### Problem 1: LeetCode 509 - Fibonacci Number
+### Problem 1: LeetCode 557 - Reverse Words in a String III
 - **Difficulty:** Easy
-- **LeetCode Link:** [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
-- **Description:** Compute the n-th Fibonacci number using a recursive algorithm.
+- **LeetCode Link:** [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+- **Description:** Reverse the character order of each word in a sentence while keeping spaces.
 - **Status:** [ ] Completed
 
-### Problem 2: LeetCode 231 - Power of Two
-- **Difficulty:** Easy
-- **LeetCode Link:** [Power of Two](https://leetcode.com/problems/power-of-two/)
-- **Description:** Determine if an integer is a power of two using recursion or bit manipulation.
+### Problem 2: LeetCode 394 - Decode String
+- **Difficulty:** Medium
+- **LeetCode Link:** [Decode String](https://leetcode.com/problems/decode-string/)
+- **Description:** Decode an encoded string formatted as k[encoded_string].
 - **Status:** [ ] Completed
 
-### Problem 3: LeetCode 344 - Reverse String
-- **Difficulty:** Easy
-- **LeetCode Link:** [Reverse String](https://leetcode.com/problems/reverse-string/)
-- **Description:** Reverse a given character array in-place recursively.
+### Problem 3: LeetCode 22 - Generate Parentheses
+- **Difficulty:** Medium
+- **LeetCode Link:** [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+- **Description:** Generate all combinations of well-formed parentheses for `n` pairs.
 - **Status:** [ ] Completed
 
 

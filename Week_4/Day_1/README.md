@@ -11,19 +11,19 @@
 ### Problem 1: LeetCode 104 - Maximum Depth of Binary Tree
 - **Difficulty:** Easy
 - **LeetCode Link:** [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- **Description:** Find the length of the longest path from the root node down to the farthest leaf node.
+- **Description:** Find the length of the longest path from root to leaf.
 - **Status:** [ ] Completed
 
 ### Problem 2: LeetCode 226 - Invert Binary Tree
 - **Difficulty:** Easy
 - **LeetCode Link:** [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
-- **Description:** Invert a binary tree (making it a mirror image of itself).
+- **Description:** Invert a binary tree (mirror image).
 - **Status:** [ ] Completed
 
 ### Problem 3: LeetCode 100 - Same Tree
 - **Difficulty:** Easy
 - **LeetCode Link:** [Same Tree](https://leetcode.com/problems/same-tree/)
-- **Description:** Verify if two binary trees are identical structurally and value-wise.
+- **Description:** Check if two binary trees are identical structurally and value-wise.
 - **Status:** [ ] Completed
 
 
