@@ -1,0 +1,44 @@
+# Compiled Java Files
+*.class
+*.jar
+*.war
+*.ear
+
+# Compiled C/C++ Files
+*.o
+*.obj
+*.out
+*.exe
+*.app
+*.dSYM/
+*.pdb
+*.ilk
+
+# Python Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# IDE and Project Metadata
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+*.workspace
+*.sublime-project
+*.sublime-workspace
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
