@@ -3,9 +3,9 @@
 ## 📝 Student Profile
 - **Student Name:** Vaibhav Singh
 - **Roll Number:** 2401920130209
-- **Branch:** Computer Science & Engineering (CSE)
-- **Semester:** 6th Semester
-- **Academic Year:** 2025 - 2026
+- **Branch:** Computer Science & Information Technology (CSIT)
+- **Semester:** 5th Semester
+- **Academic Year:** 2026 - 2027
 - **Primary Languages:** Java (JDK 17+) / C++ (C++17+)
 
 ---
