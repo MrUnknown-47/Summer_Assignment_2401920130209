@@ -10,29 +10,6 @@
 
 ---
 
-## 📢 Official Course Announcement & General Instructions
-
-> ### **Dear Students,**
-> This assignment is designed to improve your problem-solving skills, coding practices, and consistency. All 3rd-year students are required to follow the instructions given below.
-
-### 📋 General Instructions
-1. **Assignment Start Date:** 1 June 2026 (Monday).
-2. **Duration:** 4 weeks.
-3. **Weekly Schedule:** Every new week will begin on Monday.
-4. **Daily DSA Load:** Students must solve 3 LeetCode problems daily as per the provided schedule.
-5. **Weekly OOPS Load:** In addition, students must solve 1 OOPS problem every week.
-6. **Solution Validation:** All DSA problems must first be solved on LeetCode and then uploaded to GitHub.
-7. **Consistency Rule:** Daily practice and submissions are compulsory. Avoid keeping pending work for later.
-
-### 💻 GitHub Submission Guidelines
-* Create a GitHub repository with the name: `Summer_Assignment_RollNo` (e.g., `Summer_Assignment_2401920130209`).
-* Inside the repository, maintain separate folders for `Week_1`, `Week_2`, `Week_3`, and `Week_4`. Within each week folder, utilize subfolders named `Day_1`, `Day_2`, `Day_3`, `Day_4`, `Day_5`, and `OOPS`.
-* Upload the daily LeetCode solutions in the corresponding `Day` folder and upload the weekly OOPS solution in the `OOPS` folder of that week.
-* Use meaningful file names and maintain a proper folder structure throughout the assignment.
-* Students **must commit and push** their code to GitHub on the same day after completing the assigned work.
-
----
-
 ## 🎯 Repository Overview & Objectives
 This repository is a structured compilation of solutions for the **4-Week Data Structures, Algorithms (DSA), and Object-Oriented Programming System (OOPS)** Summer Assignment. 
 
@@ -174,10 +151,10 @@ Summer_Assignment_2401920130209/
 ---
 
 ### Week 4 Progress Tracker: Trees
-- [ ] **Day 1: Binary Tree Basics**
-  - [ ] LeetCode 104: [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Easy)
-  - [ ] LeetCode 226: [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) (Easy)
-  - [ ] LeetCode 100: [Same Tree](https://leetcode.com/problems/same-tree/) (Easy)
+- [x] **Day 1: Binary Tree Basics**
+  - [x] LeetCode 104: [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Easy)
+  - [x] LeetCode 226: [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) (Easy)
+  - [x] LeetCode 100: [Same Tree](https://leetcode.com/problems/same-tree/) (Easy)
 - [ ] **Day 2: Traversals**
   - [ ] LeetCode 94: [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Easy)
   - [ ] LeetCode 102: [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (Medium)
@@ -245,21 +222,4 @@ flowchart LR
 4. **Maintain Daily Activity:** Push updates daily to verify your repository consistency.
 
 ---
-
-## ⚠️ Plagiarism Policy (Strictly Enforced)
-1. **Regular Checks:** All submissions will be checked for plagiarism.
-2. **Dual Scope:** Plagiarism checks will be performed on both the code and the approach used.
-3. **Prohibition:** Copying solutions from classmates, seniors, online sources, repositories, websites, discussion forums, AI tools, or any other source is strictly prohibited.
-4. **Defense of Code:** Students may be asked to explain their submitted solutions during review.
-5. **Review Failure:** Failure to explain the submitted code may be treated as plagiarism.
-6. **Strict Action:** If plagiarism is detected, strict disciplinary action will be taken and the submission may be rejected.
-
----
-
-## 📌 Important Notes
-* **Daily Monitoring:** Monitoring will be conducted on a daily basis.
-* **No Late Submissions:** Late submissions will not be considered for evaluation.
-* **Mandatory Updates:** Daily GitHub pushes are mandatory.
-* **Continuous Progress:** Students are expected to maintain regular progress throughout the assignment.
-* **Core Logic Focus:** Focus on understanding the concepts and logic rather than simply completing the questions.
 
