@@ -76,14 +76,14 @@ Summer_Assignment_2401920130209/
 ## 📈 Detailed Progress Dashboard
 
 ### Week 1 Progress Tracker: Arrays + Basic Strings
-- [ ] **Day 1: Array Basics**
-  - [ ] LeetCode 1: [Two Sum](https://leetcode.com/problems/two-sum/) (Easy)
-  - [ ] LeetCode 26: [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) (Easy)
-  - [ ] LeetCode 121: [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (Easy)
-- [ ] **Day 2: Prefix Sum / Sliding Window**
-  - [ ] LeetCode 53: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (Medium)
-  - [ ] LeetCode 217: [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Easy)
-  - [ ] LeetCode 643: [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) (Easy)
+- [x] **Day 1: Array Basics**
+  - [x] LeetCode 1: [Two Sum](https://leetcode.com/problems/two-sum/) (Easy)
+  - [x] LeetCode 26: [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) (Easy)
+  - [x] LeetCode 121: [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (Easy)
+- [x] **Day 2: Prefix Sum / Sliding Window**
+  - [x] LeetCode 53: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (Medium)
+  - [x] LeetCode 217: [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Easy)
+  - [x] LeetCode 643: [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) (Easy)
 - [ ] **Day 3: Two Pointer**
   - [ ] LeetCode 283: [Move Zeroes](https://leetcode.com/problems/move-zeroes/) (Easy)
   - [ ] LeetCode 977: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) (Easy)
