@@ -1,5 +1,5 @@
-#include<iostream>
-#include<vector>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 class Solution
@@ -22,13 +22,14 @@ public:
     }
 };
 
-int main() {
-   vector<int> nums = {1,12,-5,-6,50,3};
-  
-   Solution solution;
-   double result = solution.findMaxAverage(nums, 4); //12.75
-  
-   cout << "The maximum average is: " << result << endl;
-  
-   return 0;
+int main()
+{
+    vector<int> nums = {1, 12, -5, -6, 50, 3};
+
+    Solution solution;
+    double result = solution.findMaxAverage(nums, 4); // 12.75
+
+    cout << "The maximum average is: " << result << endl;
+
+    return 0;
 }
