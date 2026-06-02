@@ -151,10 +151,10 @@ Summer_Assignment_2401920130209/
 ---
 
 ### Week 4 Progress Tracker: Trees
-- [x] **Day 1: Binary Tree Basics**
-  - [x] LeetCode 104: [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Easy)
-  - [x] LeetCode 226: [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) (Easy)
-  - [x] LeetCode 100: [Same Tree](https://leetcode.com/problems/same-tree/) (Easy)
+- [ ] **Day 1: Binary Tree Basics**
+  - [ ] LeetCode 104: [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Easy)
+  - [ ] LeetCode 226: [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) (Easy)
+  - [ ] LeetCode 100: [Same Tree](https://leetcode.com/problems/same-tree/) (Easy)
 - [ ] **Day 2: Traversals**
   - [ ] LeetCode 94: [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Easy)
   - [ ] LeetCode 102: [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (Medium)
