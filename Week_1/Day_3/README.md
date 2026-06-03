@@ -18,7 +18,7 @@
 - **Difficulty:** Easy
 - **LeetCode Link:** [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - **Description:** Return an array of the squares of each number sorted in non-decreasing order.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 3: LeetCode 11 - Container With Most Water
 - **Difficulty:** Medium
@@ -34,7 +34,7 @@
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O(n)` | `O(1)` | |
-| **Problem 2** | `O(n)` | `O(1)` | |
-| **Problem 3** | `O()` | `O()` | |
+| **Problem 2** | `O(n)` | `O(n)` | |
+| **Problem 3** | `O(n)` | `O(1)` | |
 
 ---
