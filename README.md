@@ -86,8 +86,8 @@ Summer_Assignment_2401920130209/
   - [x] LeetCode 643: [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) (Easy)
 - [ ] **Day 3: Two Pointer**
   - [x] LeetCode 283: [Move Zeroes](https://leetcode.com/problems/move-zeroes/) (Easy)
-  - [ ] LeetCode 977: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) (Easy)
-  - [ ] LeetCode 11: [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) (Medium)
+  - [] LeetCode 977: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) (Easy)
+  - [x] LeetCode 11: [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) (Medium)
 - [ ] **Day 4: Matrix Problems**
   - [ ] LeetCode 1572: [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) (Easy)
   - [ ] LeetCode 566: [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) (Easy)

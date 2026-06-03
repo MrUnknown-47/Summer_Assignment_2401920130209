@@ -24,7 +24,7 @@
 - **Difficulty:** Medium
 - **LeetCode Link:** [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - **Description:** Find two lines that form a container holding the maximum volume of water.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 
 ---
@@ -34,7 +34,7 @@
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O(n)` | `O(1)` | |
-| **Problem 2** | `O()` | `O()` | |
+| **Problem 2** | `O(n)` | `O(1)` | |
 | **Problem 3** | `O()` | `O()` | |
 
 ---
