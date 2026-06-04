@@ -24,7 +24,7 @@
 - **Difficulty:** Medium
 - **LeetCode Link:** [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - **Description:** Return all elements of an m x n matrix in spiral order.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 
 ---
@@ -34,7 +34,7 @@
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O(n)` | `O(1)` | |
-| **Problem 2** | `O(n)` | `O(n)` | |
-| **Problem 3** | `O()` | `O()` | |
+| **Problem 2** | `O(m*n)` | `O(1)` | |
+| **Problem 3** | `O(m*n)` | `O(1)` | |
 
 ---

@@ -88,10 +88,10 @@ Summer_Assignment_2401920130209/
   - [x] LeetCode 283: [Move Zeroes](https://leetcode.com/problems/move-zeroes/) (Easy)
   - [x] LeetCode 977: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) (Easy)
   - [x] LeetCode 11: [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) (Medium)
-- [ ] **Day 4: Matrix Problems**
+- [x] **Day 4: Matrix Problems**
   - [x] LeetCode 1572: [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) (Easy)
   - [x] LeetCode 566: [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) (Easy)
-  - [ ] LeetCode 54: [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) (Medium)
+  - [x] LeetCode 54: [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) (Medium)
 - [ ] **Day 5: String Basics**
   - [ ] LeetCode 125: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (Easy)
   - [ ] LeetCode 344: [Reverse String](https://leetcode.com/problems/reverse-string/) (Easy)
