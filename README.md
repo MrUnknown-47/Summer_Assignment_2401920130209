@@ -90,7 +90,7 @@ Summer_Assignment_2401920130209/
   - [x] LeetCode 11: [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) (Medium)
 - [ ] **Day 4: Matrix Problems**
   - [x] LeetCode 1572: [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) (Easy)
-  - [ ] LeetCode 566: [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) (Easy)
+  - [x] LeetCode 566: [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) (Easy)
   - [ ] LeetCode 54: [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) (Medium)
 - [ ] **Day 5: String Basics**
   - [ ] LeetCode 125: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (Easy)

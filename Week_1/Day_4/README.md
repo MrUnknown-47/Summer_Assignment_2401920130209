@@ -18,7 +18,7 @@
 - **Difficulty:** Easy
 - **LeetCode Link:** [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 - **Description:** Reshape an m x n matrix into a new r x c matrix if possible.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 3: LeetCode 54 - Spiral Matrix
 - **Difficulty:** Medium
@@ -34,7 +34,7 @@
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O(n)` | `O(1)` | |
-| **Problem 2** | `O()` | `O()` | |
+| **Problem 2** | `O(n)` | `O(n)` | |
 | **Problem 3** | `O()` | `O()` | |
 
 ---
