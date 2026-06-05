@@ -24,7 +24,7 @@ This week focuses on foundational array operations, sliding window/prefix sum al
 - [x] Day 2 Solutions Completed
 - [x] Day 3 Solutions Completed
 - [x] Day 4 Solutions Completed
-- [ ] Day 5 Solutions Completed
+- [x] Day 5 Solutions Completed
 - [ ] Weekly OOPS Programming Task Completed
 
 ---
