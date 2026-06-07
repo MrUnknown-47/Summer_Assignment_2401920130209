@@ -96,7 +96,7 @@ Summer_Assignment_2401920130209/
   - [x] LeetCode 125: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (Easy)
   - [x] LeetCode 344: [Reverse String](https://leetcode.com/problems/reverse-string/) (Easy)
   - [x] LeetCode 14: [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) (Easy)
-- [ ] **OOPS Assignment 1:** [Library Account Registration](./Week_1/OOPS/README.md)
+- [x] **OOPS Assignment 1:** [Library Account Registration](./Week_1/OOPS/README.md)
 
 ---
 
