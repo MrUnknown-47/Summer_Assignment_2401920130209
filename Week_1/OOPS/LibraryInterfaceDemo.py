@@ -11,7 +11,7 @@ class LibraryUser(ABC):
         pass
 
 
-class KidUser(LibraryUser):
+class KidUsers(LibraryUser):
 
     def __init__(self, age, bookType):
         self.age = age
@@ -51,13 +51,13 @@ class AdultUser(LibraryUser):
 
 print("Test case #1:")
 
-kid1 = KidUser(10, "Kids")
+kid1 = KidUsers(10, "Kids")
 kid1.registerAccount()
 kid1.requestBook()
 
 print()
 
-kid2 = KidUser(18, "Fiction")
+kid2 = KidUsers(18, "Fiction")
 kid2.registerAccount()
 kid2.requestBook()
 
