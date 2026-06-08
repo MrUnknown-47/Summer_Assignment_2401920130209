@@ -10,12 +10,17 @@ class LibraryUser(ABC):
     def requestBook(self):
         pass
 
-
 class KidUser(LibraryUser):
 
-    def __init__(self, age, bookType):
+    def __init__(self):
+        self.age = 0
+        self.bookType = ""
+
+    def setAge(self, age):
         self.age = age
-        self.bookType = bookType
+
+    def setBookType(self, book):
+        self.bookType = book
 
     def registerAccount(self):
         if self.age < 12:
@@ -24,51 +29,57 @@ class KidUser(LibraryUser):
             print("Sorry, Age must be less than 12 to register as a kid")
 
     def requestBook(self):
-        if self.bookType.lower() == "kids":
+        if self.bookType == "Kids":
             print("Book Issued successfully, please return the book within 10 days")
         else:
             print("Oops, you are allowed to take only kids books")
 
-
 class AdultUser(LibraryUser):
 
-    def __init__(self, age, bookType):
+    def __init__(self):
+        self.age = 0
+        self.bookType = ""
+
+    def setAge(self, age):
         self.age = age
-        self.bookType = bookType
+
+    def setBookType(self, book):
+        self.bookType = book
 
     def registerAccount(self):
         if self.age > 12:
-            print("You have successfully registered under an Adult Account")
+            print("You have successfully registered under a Adult Account")
         else:
             print("Sorry, Age must be greater than 12 to register as an adult")
 
     def requestBook(self):
-        if self.bookType.lower() == "fiction":
+        if self.bookType == "Fiction":
             print("Book Issued successfully, please return the book within 7 days")
         else:
             print("Oops, you are allowed to take only adult Fiction books")
 
+if __name__ == "__main__":
 
-print("Test case #1:")
+    kidUsers = KidUser()
+    kidUsers.setAge(10)
+    kidUsers.setBookType("Kids")
+    kidUsers.registerAccount()
+    kidUsers.requestBook()
 
-kid1 = KidUser(10, "Kids")
-kid1.registerAccount()
-kid1.requestBook()
+    kidUsers.setAge(14)
+    kidUsers.setBookType("Fiction")
+    kidUsers.registerAccount()
+    kidUsers.requestBook()
 
-print()
+    print()
 
-kid2 = KidUser(18, "Fiction")
-kid2.registerAccount()
-kid2.requestBook()
+    adultUser = AdultUser()
+    adultUser.setAge(5)
+    adultUser.setBookType("Kids")
+    adultUser.registerAccount()
+    adultUser.requestBook()
 
-print("\nTest case #2:")
-
-adult1 = AdultUser(5, "Kids")
-adult1.registerAccount()
-adult1.requestBook()
-
-print()
-
-adult2 = AdultUser(23, "Fiction")
-adult2.registerAccount()
-adult2.requestBook()
+    adultUser.setAge(55)
+    adultUser.setBookType("Fiction")
+    adultUser.registerAccount()
+    adultUser.requestBook()
