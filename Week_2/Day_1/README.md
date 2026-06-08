@@ -18,7 +18,7 @@
 - **Difficulty:** Easy
 - **LeetCode Link:** [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - **Description:** Find the first non-repeating character in a string and return its index.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 3: LeetCode 383 - Ransom Note
 - **Difficulty:** Easy
@@ -34,7 +34,7 @@
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O(n)` | `O(c)` | |
-| **Problem 2** | `O()` | `O()` | |
+| **Problem 2** | `O(n)` | `O(c)` | |
 | **Problem 3** | `O(m+n)` | `O(c)` | |
 
 ---

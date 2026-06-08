@@ -20,7 +20,7 @@ This week focuses on hashing on strings, advanced string sliding windows, patter
 
 ## Weekly Tasks Progress
 
-- [ ] Day 1 Solutions Completed
+- [x] Day 1 Solutions Completed
 - [ ] Day 2 Solutions Completed
 - [ ] Day 3 Solutions Completed
 - [ ] Day 4 Solutions Completed
