@@ -1,16 +1,16 @@
 class Solution
 {
 public:
-    bool canConstruct(string ransomNote, string magazine)
+    bool isAnagram(string s, string t)
     {
-        if (ransomNote.size() > magazine.size())
+        if (s.size() != t.size())
             return false;
         vector<int> count(26, 0);
 
-        for (char ch : magazine)
+        for (char ch : s)
             count[ch - 'a']++;
 
-        for (char ch : ransomNote)
+        for (char ch : t)
         {
             if (count[ch - 'a'] <= 0)
                 return false;

@@ -12,7 +12,7 @@
 - **Difficulty:** Easy
 - **LeetCode Link:** [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - **Description:** Determine if two strings are anagrams of each other.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 2: LeetCode 387 - First Unique Character in a String
 - **Difficulty:** Easy
@@ -24,7 +24,7 @@
 - **Difficulty:** Easy
 - **LeetCode Link:** [Ransom Note](https://leetcode.com/problems/ransom-note/)
 - **Description:** Check if a ransom note string can be constructed from a given magazine string.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 
 ---
@@ -33,7 +33,7 @@
 
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
-| **Problem 1** | `O()` | `O()` | |
+| **Problem 1** | `O(n)` | `O(c)` | |
 | **Problem 2** | `O()` | `O()` | |
 | **Problem 3** | `O(m+n)` | `O(c)` | |
 
