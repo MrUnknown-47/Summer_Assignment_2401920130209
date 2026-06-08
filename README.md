@@ -104,7 +104,7 @@ Summer_Assignment_2401920130209/
 - [ ] **Day 1: Hashing in Strings**
   - [ ] LeetCode 242: [Valid Anagram](https://leetcode.com/problems/valid-anagram/) (Easy)
   - [ ] LeetCode 387: [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) (Easy)
-  - [ ] LeetCode 383: [Ransom Note](https://leetcode.com/problems/ransom-note/) (Easy)
+  - [x] LeetCode 383: [Ransom Note](https://leetcode.com/problems/ransom-note/) (Easy)
 - [ ] **Day 2: Sliding Window on Strings**
   - [ ] LeetCode 3: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Medium)
   - [ ] LeetCode 567: [Permutation in String](https://leetcode.com/problems/permutation-in-string/) (Medium)
