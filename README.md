@@ -108,7 +108,7 @@ Summer_Assignment_2401920130209/
 - [ ] **Day 2: Sliding Window on Strings**
   - [ ] LeetCode 3: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Medium)
   - [x] LeetCode 567: [Permutation in String](https://leetcode.com/problems/permutation-in-string/) (Medium)
-  - [ ] LeetCode 438: [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (Medium)
+  - [x] LeetCode 438: [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (Medium)
 - [ ] **Day 3: Pattern Matching**
   - [ ] LeetCode 28: [Implement strStr()](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) (Easy)
   - [ ] LeetCode 392: [Is Subsequence](https://leetcode.com/problems/is-subsequence/) (Easy)

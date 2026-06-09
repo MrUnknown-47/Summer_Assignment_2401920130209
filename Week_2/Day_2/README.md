@@ -24,7 +24,7 @@
 - **Difficulty:** Medium
 - **LeetCode Link:** [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - **Description:** Find all starting indices of `p`'s anagrams in `s`.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 
 ---
@@ -35,6 +35,6 @@
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O()` | `O()` | |
 | **Problem 2** | `O(n^2)` | `O(1)` | |
-| **Problem 3** | `O()` | `O()` | |
+| **Problem 3** | `O(m)` | `O(n)` | |
 
 ---
