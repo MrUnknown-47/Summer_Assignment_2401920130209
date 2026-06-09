@@ -29,26 +29,8 @@ Establish a packages hierarchy representing dynamic musical instruments using a 
 
 ---
 
-## Solution Code Templates
-
-### 1. Java Structural Layout
-Create a source file (e.g., solution source files) and use the following layout:
-
-```java
-// Paste your Java OOP structural code here
-```
-
-### 2. C++ Structural Layout
-Create a C++ source file and use the following layout:
-
-```cpp
-// Paste your C++ OOP structural code here
-```
-
----
-
 ## Verification & Execution Checks
 List the output or steps used to verify your OOPS model:
-- [ ] Compiles successfully without warnings.
-- [ ] Demonstrates requested class structures and methods.
-- [ ] Standard print statements show correct log outputs.
+- [x] Compiles successfully without warnings.
+- [x] Demonstrates requested class structures and methods.
+- [x] Standard print statements show correct log outputs.

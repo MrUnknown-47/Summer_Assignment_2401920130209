@@ -107,7 +107,7 @@ Summer_Assignment_2401920130209/
   - [x] LeetCode 383: [Ransom Note](https://leetcode.com/problems/ransom-note/) (Easy)
 - [ ] **Day 2: Sliding Window on Strings**
   - [ ] LeetCode 3: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Medium)
-  - [ ] LeetCode 567: [Permutation in String](https://leetcode.com/problems/permutation-in-string/) (Medium)
+  - [x] LeetCode 567: [Permutation in String](https://leetcode.com/problems/permutation-in-string/) (Medium)
   - [ ] LeetCode 438: [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (Medium)
 - [ ] **Day 3: Pattern Matching**
   - [ ] LeetCode 28: [Implement strStr()](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) (Easy)
@@ -121,7 +121,7 @@ Summer_Assignment_2401920130209/
   - [ ] LeetCode 49: [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (Medium)
   - [ ] LeetCode 443: [String Compression](https://leetcode.com/problems/string-compression/) (Medium)
   - [ ] LeetCode 5: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) (Medium)
-- [ ] **OOPS Assignment 2:** [Playable Interface & Packages](./Week_2/OOPS/README.md)
+- [x] **OOPS Assignment 2:** [Playable Interface & Packages](./Week_2/OOPS/README.md)
 
 ---
 
