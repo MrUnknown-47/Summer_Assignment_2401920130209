@@ -12,7 +12,7 @@
 - **Difficulty:** Medium
 - **LeetCode Link:** [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - **Description:** Compute the length of the longest substring without duplicate characters.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 2: LeetCode 567 - Permutation in String
 - **Difficulty:** Medium
@@ -33,7 +33,7 @@
 
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
-| **Problem 1** | `O()` | `O()` | |
+| **Problem 1** | `O(n)` | `O(1)` | |
 | **Problem 2** | `O(n^2)` | `O(1)` | |
 | **Problem 3** | `O(m)` | `O(n)` | |
 
