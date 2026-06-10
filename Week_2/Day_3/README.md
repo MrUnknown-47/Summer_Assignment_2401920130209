@@ -24,7 +24,7 @@
 - **Difficulty:** Easy
 - **LeetCode Link:** [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - **Description:** Check if a string can be constructed by repeating a substring of it multiple times.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 
 ---
@@ -35,6 +35,6 @@
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O((n - m) × m)` | `O(1)` | |
 | **Problem 2** | `O(n)` | `O(1)` | |
-| **Problem 3** | `O()` | `O()` | |
+| **Problem 3** | `O(n)` | `O(n)` | |
 
 ---
