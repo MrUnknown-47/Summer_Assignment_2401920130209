@@ -110,7 +110,7 @@ Summer_Assignment_2401920130209/
   - [x] LeetCode 567: [Permutation in String](https://leetcode.com/problems/permutation-in-string/) (Medium)
   - [x] LeetCode 438: [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (Medium)
 - [ ] **Day 3: Pattern Matching**
-  - [ ] LeetCode 28: [Implement strStr()](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) (Easy)
+  - [x] LeetCode 28: [Implement strStr()](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) (Easy)
   - [ ] LeetCode 392: [Is Subsequence](https://leetcode.com/problems/is-subsequence/) (Easy)
   - [ ] LeetCode 459: [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) (Easy)
 - [ ] **Day 4: Recursion + Strings**

@@ -12,7 +12,7 @@
 - **Difficulty:** Easy
 - **LeetCode Link:** [Implement strStr()](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 - **Description:** Return the index of the first occurrence of needle in haystack.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 2: LeetCode 392 - Is Subsequence
 - **Difficulty:** Easy
@@ -29,29 +29,11 @@
 
 ---
 
-## Solutions
-
-### 1. Java Solution
-Add your Java solution in a source file in this folder (e.g., `Solution.java`) or paste it inside the code block below:
-
-```java
-// Paste your Java solution here
-```
-
-### 2. C++ Solution
-Add your C++ solution in a source file in this folder (e.g., `solution.cpp`) or paste it inside the code block below:
-
-```cpp
-// Paste your C++ solution here
-```
-
----
-
 ## Complexity Analysis
 
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
-| **Problem 1** | `O()` | `O()` | |
+| **Problem 1** | `O((n - m) × m)` | `O(1)` | |
 | **Problem 2** | `O()` | `O()` | |
 | **Problem 3** | `O()` | `O()` | |
 
