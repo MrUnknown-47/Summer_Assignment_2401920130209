@@ -18,7 +18,7 @@
 - **Difficulty:** Easy
 - **LeetCode Link:** [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - **Description:** Determine if a string is a subsequence of another.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 3: LeetCode 459 - Repeated Substring Pattern
 - **Difficulty:** Easy
@@ -34,11 +34,7 @@
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O((n - m) × m)` | `O(1)` | |
-| **Problem 2** | `O()` | `O()` | |
+| **Problem 2** | `O(n)` | `O(1)` | |
 | **Problem 3** | `O()` | `O()` | |
 
 ---
-
-## Learning Notes & Observations
-Use this section to document key patterns, edge cases, and optimization strategies discovered today.
-- *Example: What did you learn about pointer updates or base cases?*
