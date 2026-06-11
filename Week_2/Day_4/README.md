@@ -12,13 +12,13 @@
 - **Difficulty:** Easy
 - **LeetCode Link:** [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - **Description:** Reverse the character order of each word in a sentence while keeping spaces.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 2: LeetCode 394 - Decode String
 - **Difficulty:** Medium
 - **LeetCode Link:** [Decode String](https://leetcode.com/problems/decode-string/)
 - **Description:** Decode an encoded string formatted as k[encoded_string].
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 3: LeetCode 22 - Generate Parentheses
 - **Difficulty:** Medium
@@ -34,7 +34,7 @@
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O(n)` | `O(1)` | |
-| **Problem 2** | `O()` | `O()` | |
+| **Problem 2** | `O(n * m)` | `O(n + m)` | |
 | **Problem 3** | `O()` | `O()` | |
 
 ---

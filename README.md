@@ -115,7 +115,7 @@ Summer_Assignment_2401920130209/
   - [x] LeetCode 459: [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) (Easy)
 - [ ] **Day 4: Recursion + Strings**
   - [x] LeetCode 557: [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) (Easy)
-  - [ ] LeetCode 394: [Decode String](https://leetcode.com/problems/decode-string/) (Medium)
+  - [x] LeetCode 394: [Decode String](https://leetcode.com/problems/decode-string/) (Medium)
   - [ ] LeetCode 22: [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) (Medium)
 - [ ] **Day 5: Mixed String Problems**
   - [ ] LeetCode 49: [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (Medium)
