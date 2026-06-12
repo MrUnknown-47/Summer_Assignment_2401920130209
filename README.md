@@ -120,7 +120,7 @@ Summer_Assignment_2401920130209/
 - [ ] **Day 5: Mixed String Problems**
   - [ ] LeetCode 49: [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (Medium)
   - [ ] LeetCode 443: [String Compression](https://leetcode.com/problems/string-compression/) (Medium)
-  - [ ] LeetCode 5: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) (Medium)
+  - [x] LeetCode 5: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) (Medium)
 - [x] **OOPS Assignment 2:** [Playable Interface & Packages](./Week_2/OOPS/README.md)
 
 ---

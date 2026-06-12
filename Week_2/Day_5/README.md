@@ -24,26 +24,8 @@
 - **Difficulty:** Medium
 - **LeetCode Link:** [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - **Description:** Find the longest contiguous palindromic substring in a string.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
-
----
-
-## Solutions
-
-### 1. Java Solution
-Add your Java solution in a source file in this folder (e.g., `Solution.java`) or paste it inside the code block below:
-
-```java
-// Paste your Java solution here
-```
-
-### 2. C++ Solution
-Add your C++ solution in a source file in this folder (e.g., `solution.cpp`) or paste it inside the code block below:
-
-```cpp
-// Paste your C++ solution here
-```
 
 ---
 
@@ -53,10 +35,6 @@ Add your C++ solution in a source file in this folder (e.g., `solution.cpp`) or 
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O()` | `O()` | |
 | **Problem 2** | `O()` | `O()` | |
-| **Problem 3** | `O()` | `O()` | |
+| **Problem 3** | `O(n^2)` | `O(1)` | |
 
 ---
-
-## Learning Notes & Observations
-Use this section to document key patterns, edge cases, and optimization strategies discovered today.
-- *Example: What did you learn about pointer updates or base cases?*
