@@ -24,7 +24,7 @@
 - **Difficulty:** Medium
 - **LeetCode Link:** [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 - **Description:** Generate all combinations of well-formed parentheses for `n` pairs.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 
 ---
