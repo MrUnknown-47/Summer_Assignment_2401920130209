@@ -24,7 +24,7 @@ This week focuses on hashing on strings, advanced string sliding windows, patter
 - [x] Day 2 Solutions Completed
 - [x] Day 3 Solutions Completed
 - [x] Day 4 Solutions Completed
-- [ ] Day 5 Solutions Completed
+- [x] Day 5 Solutions Completed
 - [x] Weekly OOPS Programming Task Completed
 
 ---

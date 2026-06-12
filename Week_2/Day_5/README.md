@@ -12,13 +12,13 @@
 - **Difficulty:** Medium
 - **LeetCode Link:** [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - **Description:** Group an array of strings by their anagram equivalence classes.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 2: LeetCode 443 - String Compression
 - **Difficulty:** Medium
 - **LeetCode Link:** [String Compression](https://leetcode.com/problems/string-compression/)
 - **Description:** Compress an array of characters in-place using count counts.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 3: LeetCode 5 - Longest Palindromic Substring
 - **Difficulty:** Medium
@@ -33,8 +33,8 @@
 
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
-| **Problem 1** | `O()` | `O()` | |
-| **Problem 2** | `O()` | `O()` | |
+| **Problem 1** | `O(n)` | `O(1)` | |
+| **Problem 2** | `O(n * k)` | `O()` | |
 | **Problem 3** | `O(n^2)` | `O(1)` | |
 
 ---

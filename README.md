@@ -117,9 +117,9 @@ Summer_Assignment_2401920130209/
   - [x] LeetCode 557: [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) (Easy)
   - [x] LeetCode 394: [Decode String](https://leetcode.com/problems/decode-string/) (Medium)
   - [x] LeetCode 22: [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) (Medium)
-- [ ] **Day 5: Mixed String Problems**
-  - [ ] LeetCode 49: [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (Medium)
-  - [ ] LeetCode 443: [String Compression](https://leetcode.com/problems/string-compression/) (Medium)
+- [x] **Day 5: Mixed String Problems**
+  - [x] LeetCode 49: [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (Medium)
+  - [x] LeetCode 443: [String Compression](https://leetcode.com/problems/string-compression/) (Medium)
   - [x] LeetCode 5: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) (Medium)
 - [x] **OOPS Assignment 2:** [Playable Interface & Packages](./Week_2/OOPS/README.md)
 
