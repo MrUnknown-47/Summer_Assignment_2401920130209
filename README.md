@@ -127,7 +127,7 @@ Summer_Assignment_2401920130209/
 
 ### Week 3 Progress Tracker: Linked List + Stack + Queue
 - [ ] **Day 1: Linked List (Part A)**
-  - [ ] LeetCode 141: [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) (Easy)
+  - [x] LeetCode 141: [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) (Easy)
   - [ ] LeetCode 206: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (Easy)
   - [ ] LeetCode 876: [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) (Easy)
 - [ ] **Day 2: Linked List (Part A - Continued)**
