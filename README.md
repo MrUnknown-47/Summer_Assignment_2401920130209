@@ -146,7 +146,7 @@ Summer_Assignment_2401920130209/
   - [ ] LeetCode 232: [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (Easy)
   - [ ] LeetCode 933: [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) (Easy)
   - [ ] LeetCode 239: [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (Hard)
-- [ ] **OOPS Assignment 3:** [Compartment Notice Simulator](./Week_3/OOPS/README.md)
+- [x] **OOPS Assignment 3:** [Compartment Notice Simulator](./Week_3/OOPS/README.md)
 
 ---
 

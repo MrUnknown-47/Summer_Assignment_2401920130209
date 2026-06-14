@@ -25,7 +25,7 @@ This week focuses on linear data structures. Part A covers Linked List pointer t
 - [ ] Day 3 Solutions Completed
 - [ ] Day 4 Solutions Completed
 - [ ] Day 5 Solutions Completed
-- [ ] Weekly OOPS Programming Task Completed
+- [x] Weekly OOPS Programming Task Completed
 
 ---
 
