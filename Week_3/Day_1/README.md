@@ -18,7 +18,7 @@
 - **Difficulty:** Easy
 - **LeetCode Link:** [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - **Description:** Reverse a singly linked list in-place.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 3: LeetCode 876 - Middle of the Linked List
 - **Difficulty:** Easy
@@ -34,7 +34,7 @@
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O(n)` | `O(1)` | |
-| **Problem 2** | `O()` | `O()` | |
+| **Problem 2** | `O(n)` | `O(1)` | |
 | **Problem 3** | `O()` | `O()` | |
 
 ---
