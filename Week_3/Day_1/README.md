@@ -24,7 +24,7 @@
 - **Difficulty:** Easy
 - **LeetCode Link:** [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - **Description:** Find and return the middle node of a linked list.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 
 ---
@@ -35,6 +35,6 @@
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O(n)` | `O(1)` | |
 | **Problem 2** | `O(n)` | `O(1)` | |
-| **Problem 3** | `O()` | `O()` | |
+| **Problem 3** | `O(n)` | `O(1)` | |
 
 ---
