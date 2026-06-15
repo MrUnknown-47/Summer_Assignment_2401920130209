@@ -18,13 +18,13 @@
 - **Difficulty:** Medium
 - **LeetCode Link:** [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - **Description:** Remove the nth node from the end of the list and return its head.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 3: LeetCode 234 - Palindrome Linked List
 - **Difficulty:** Easy
 - **LeetCode Link:** [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - **Description:** Check if a singly linked list is a palindrome.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 
 ---
@@ -34,7 +34,7 @@
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O(n + m)` | `O(1)` | |
-| **Problem 2** | `O()` | `O()` | |
-| **Problem 3** | `O()` | `O()` | |
+| **Problem 2** | `O(n)` | `O(1)` | |
+| **Problem 3** | `O(n)` | `O(1)` | |
 
 ---

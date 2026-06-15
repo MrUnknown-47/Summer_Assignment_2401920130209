@@ -130,10 +130,10 @@ Summer_Assignment_2401920130209/
   - [x] LeetCode 141: [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) (Easy)
   - [x] LeetCode 206: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (Easy)
   - [x] LeetCode 876: [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) (Easy)
-- [ ] **Day 2: Linked List (Part A - Continued)**
+- [x] **Day 2: Linked List (Part A - Continued)**
   - [x] LeetCode 21: [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (Easy)
-  - [ ] LeetCode 19: [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) (Medium)
-  - [ ] LeetCode 234: [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) (Easy)
+  - [x] LeetCode 19: [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) (Medium)
+  - [x] LeetCode 234: [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) (Easy)
 - [ ] **Day 3: Stack (Part B)**
   - [ ] LeetCode 20: [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (Easy)
   - [ ] LeetCode 155: [Min Stack](https://leetcode.com/problems/min-stack/) (Medium)
