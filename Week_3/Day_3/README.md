@@ -24,7 +24,7 @@
 - **Difficulty:** Easy
 - **LeetCode Link:** [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 - **Description:** Find the next greater element for each array element relative to its subset.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 
 ---
@@ -35,6 +35,6 @@
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O(n)` | `O(n)` | |
 | **Problem 2** | `O(1)` | `O(1)` | |
-| **Problem 3** | `O()` | `O()` | |
+| **Problem 3** | `O(n + m)` | `O(n)` | |
 
 ---
