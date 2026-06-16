@@ -18,7 +18,7 @@
 - **Difficulty:** Medium
 - **LeetCode Link:** [Min Stack](https://leetcode.com/problems/min-stack/)
 - **Description:** Design a stack that returns its minimum element in O(1) time.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 3: LeetCode 496 - Next Greater Element I
 - **Difficulty:** Easy
@@ -34,7 +34,7 @@
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O(n)` | `O(n)` | |
-| **Problem 2** | `O()` | `O()` | |
+| **Problem 2** | `O(1)` | `O(1)` | |
 | **Problem 3** | `O()` | `O()` | |
 
 ---
