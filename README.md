@@ -135,7 +135,7 @@ Summer_Assignment_2401920130209/
   - [x] LeetCode 19: [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) (Medium)
   - [x] LeetCode 234: [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) (Easy)
 - [ ] **Day 3: Stack (Part B)**
-  - [ ] LeetCode 20: [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (Easy)
+  - [x] LeetCode 20: [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (Easy)
   - [ ] LeetCode 155: [Min Stack](https://leetcode.com/problems/min-stack/) (Medium)
   - [ ] LeetCode 496: [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) (Easy)
 - [ ] **Day 4: Stack (Part B - Continued)**
