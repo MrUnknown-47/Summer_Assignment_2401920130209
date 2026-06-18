@@ -139,7 +139,7 @@ Summer_Assignment_2401920130209/
   - [x] LeetCode 155: [Min Stack](https://leetcode.com/problems/min-stack/) (Medium)
   - [x] LeetCode 496: [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) (Easy)
 - [ ] **Day 4: Stack (Part B - Continued)**
-  - [ ] LeetCode 739: [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) (Medium)
+  - [x] LeetCode 739: [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) (Medium)
   - [ ] LeetCode 150: [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) (Medium)
   - [ ] LeetCode 84: [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) (Hard)
 - [ ] **Day 5: Queue / Deque (Part C)**
