@@ -18,13 +18,13 @@
 - **Difficulty:** Medium
 - **LeetCode Link:** [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - **Description:** Evaluate arithmetic expression in Postfix/Reverse Polish Notation.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 3: LeetCode 84 - Largest Rectangle in Histogram
 - **Difficulty:** Hard
 - **LeetCode Link:** [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 - **Description:** Find the area of the largest rectangle in a histogram.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 
 ---
@@ -34,7 +34,7 @@
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O(n)` | `O(n)` | |
-| **Problem 2** | `O()` | `O()` | |
-| **Problem 3** | `O()` | `O()` | |
+| **Problem 2** | `O(n)` | `O(n)` | |
+| **Problem 3** | `O(n)` | `O(n)` | |
 
 ---

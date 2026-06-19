@@ -12,7 +12,7 @@
 - **Difficulty:** Easy
 - **LeetCode Link:** [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 - **Description:** Implement a FIFO queue using two stacks.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 2: LeetCode 933 - Number of Recent Calls
 - **Difficulty:** Easy
@@ -29,34 +29,12 @@
 
 ---
 
-## Solutions
-
-### 1. Java Solution
-Add your Java solution in a source file in this folder (e.g., `Solution.java`) or paste it inside the code block below:
-
-```java
-// Paste your Java solution here
-```
-
-### 2. C++ Solution
-Add your C++ solution in a source file in this folder (e.g., `solution.cpp`) or paste it inside the code block below:
-
-```cpp
-// Paste your C++ solution here
-```
-
----
-
 ## Complexity Analysis
 
 | Problem | Time Complexity | Space Complexity | Approach Notes |
 | :--- | :--- | :--- | :--- |
-| **Problem 1** | `O()` | `O()` | |
+| **Problem 1** | `O(n)` | `O(n)` | |
 | **Problem 2** | `O()` | `O()` | |
 | **Problem 3** | `O()` | `O()` | |
 
 ---
-
-## Learning Notes & Observations
-Use this section to document key patterns, edge cases, and optimization strategies discovered today.
-- *Example: What did you learn about pointer updates or base cases?*

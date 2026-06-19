@@ -138,12 +138,12 @@ Summer_Assignment_2401920130209/
   - [x] LeetCode 20: [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (Easy)
   - [x] LeetCode 155: [Min Stack](https://leetcode.com/problems/min-stack/) (Medium)
   - [x] LeetCode 496: [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) (Easy)
-- [ ] **Day 4: Stack (Part B - Continued)**
+- [x] **Day 4: Stack (Part B - Continued)**
   - [x] LeetCode 739: [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) (Medium)
-  - [ ] LeetCode 150: [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) (Medium)
-  - [ ] LeetCode 84: [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) (Hard)
+  - [x] LeetCode 150: [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) (Medium)
+  - [x] LeetCode 84: [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) (Hard)
 - [ ] **Day 5: Queue / Deque (Part C)**
-  - [ ] LeetCode 232: [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (Easy)
+  - [x] LeetCode 232: [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (Easy)
   - [ ] LeetCode 933: [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) (Easy)
   - [ ] LeetCode 239: [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (Hard)
 - [x] **OOPS Assignment 3:** [Compartment Notice Simulator](./Week_3/OOPS/README.md)
