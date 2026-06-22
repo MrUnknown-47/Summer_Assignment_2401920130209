@@ -18,13 +18,13 @@
 - **Difficulty:** Easy
 - **LeetCode Link:** [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 - **Description:** Count recent requests within a sliding window of time.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 ### Problem 3: LeetCode 239 - Sliding Window Maximum
 - **Difficulty:** Hard
 - **LeetCode Link:** [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - **Description:** Find the maximum element inside each sliding window of size `k`.
-- **Status:** [ ] Completed
+- **Status:** [x] Completed
 
 
 ---
@@ -35,6 +35,6 @@
 | :--- | :--- | :--- | :--- |
 | **Problem 1** | `O(n)` | `O(n)` | |
 | **Problem 2** | `O()` | `O()` | |
-| **Problem 3** | `O()` | `O()` | |
+| **Problem 3** | `O(n)` | `O(k)` | |
 
 ---

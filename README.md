@@ -142,10 +142,10 @@ Summer_Assignment_2401920130209/
   - [x] LeetCode 739: [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) (Medium)
   - [x] LeetCode 150: [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) (Medium)
   - [x] LeetCode 84: [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) (Hard)
-- [ ] **Day 5: Queue / Deque (Part C)**
+- [x] **Day 5: Queue / Deque (Part C)**
   - [x] LeetCode 232: [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (Easy)
-  - [ ] LeetCode 933: [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) (Easy)
-  - [ ] LeetCode 239: [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (Hard)
+  - [x] LeetCode 933: [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) (Easy)
+  - [x] LeetCode 239: [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (Hard)
 - [x] **OOPS Assignment 3:** [Compartment Notice Simulator](./Week_3/OOPS/README.md)
 
 ---
