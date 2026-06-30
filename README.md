@@ -151,27 +151,27 @@ Summer_Assignment_2401920130209/
 ---
 
 ### Week 4 Progress Tracker: Trees
-- [ ] **Day 1: Binary Tree Basics**
-  - [ ] LeetCode 104: [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Easy)
-  - [ ] LeetCode 226: [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) (Easy)
-  - [ ] LeetCode 100: [Same Tree](https://leetcode.com/problems/same-tree/) (Easy)
-- [ ] **Day 2: Traversals**
-  - [ ] LeetCode 94: [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Easy)
-  - [ ] LeetCode 102: [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (Medium)
-  - [ ] LeetCode 103: [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (Medium)
-- [ ] **Day 3: Binary Search Tree**
-  - [ ] LeetCode 700: [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) (Easy)
-  - [ ] LeetCode 98: [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (Medium)
-  - [ ] LeetCode 235: [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) (Medium)
-- [ ] **Day 4: Path Based Problems**
-  - [ ] LeetCode 112: [Path Sum](https://leetcode.com/problems/path-sum/) (Easy)
-  - [ ] LeetCode 543: [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (Easy)
-  - [ ] LeetCode 124: [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) (Hard)
-- [ ] **Day 5: Advanced Trees**
-  - [ ] LeetCode 101: [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) (Easy)
-  - [ ] LeetCode 105: [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (Medium)
-  - [ ] LeetCode 297: [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) (Hard)
-- [ ] **OOPS Assignment 4:** [Four OOPS Mini-Projects](./Week_4/OOPS/README.md)
+- [x] **Day 1: Binary Tree Basics**
+  - [x] LeetCode 104: [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Easy)
+  - [x] LeetCode 226: [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) (Easy)
+  - [x] LeetCode 100: [Same Tree](https://leetcode.com/problems/same-tree/) (Easy)
+- [x] **Day 2: Traversals**
+  - [x] LeetCode 94: [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Easy)
+  - [x] LeetCode 102: [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (Medium)
+  - [x] LeetCode 103: [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (Medium)
+- [x] **Day 3: Binary Search Tree**
+  - [x] LeetCode 700: [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) (Easy)
+  - [x] LeetCode 98: [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (Medium)
+  - [x] LeetCode 235: [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) (Medium)
+- [x] **Day 4: Path Based Problems**
+  - [x] LeetCode 112: [Path Sum](https://leetcode.com/problems/path-sum/) (Easy)
+  - [x] LeetCode 543: [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (Easy)
+  - [x] LeetCode 124: [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) (Hard)
+- [x] **Day 5: Advanced Trees**
+  - [x] LeetCode 101: [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) (Easy)
+  - [x] LeetCode 105: [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (Medium)
+  - [x] LeetCode 297: [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) (Hard)
+- [x] **OOPS Assignment 4:** [Four OOPS Mini-Projects](./Week_4/OOPS/README.md)
 
 ---
 
