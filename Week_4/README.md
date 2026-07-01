@@ -20,12 +20,12 @@ This week focuses on Binary Trees, Traversals, Binary Search Tree properties, Pa
 
 ## Weekly Tasks Progress
 
-- [ ] Day 1 Solutions Completed
-- [ ] Day 2 Solutions Completed
-- [ ] Day 3 Solutions Completed
-- [ ] Day 4 Solutions Completed
-- [ ] Day 5 Solutions Completed
-- [ ] Weekly OOPS Programming Task Completed
+- [x] Day 1 Solutions Completed
+- [x] Day 2 Solutions Completed
+- [x] Day 3 Solutions Completed
+- [x] Day 4 Solutions Completed
+- [x] Day 5 Solutions Completed
+- [x] Weekly OOPS Programming Task Completed
 
 ---
 
